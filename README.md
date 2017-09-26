@@ -1,6 +1,6 @@
 # React ATM machine App
 
-* [Jay Bank](j-bank.surge.sh)
+* [Jay Bank](https://j-bank.surge.sh)
 
 ![](https://media.giphy.com/media/3oriePkL53IxK0Aq52/giphy.gif)
 
