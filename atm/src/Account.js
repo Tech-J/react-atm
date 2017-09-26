@@ -88,7 +88,6 @@ class Account extends Component {
             <label>*Enter amounts in incriments of $20</label>
                 <input type="number" onChange={(e)=>this.updateInputValue(e)} value={this.state.input}/>
              <p>  Account: <select onChange={(e)=>this.updateSelectionValue(e)}>
-                    <option value="selection">Selection</option>
                     <option value="savings">Savings</option>
                     <option value="checking">Checking</option>
                 </select> </p>
